@@ -1,4 +1,4 @@
-# Hi 👋, Subodh Agale:
+# Hi 👋, I'm Subodh Agale:
 🧐 I'm actively exploring roles in the IT field. If you have a project, an idea, or just want to connect, feel free to get in touch. I'm all ears!<br><br>🎯 I'm enthusiastic about making a difference through technology and embracing growth opportunities along the way!<br><br>💬 Ask me about Java, JavaScript, MySQL, React, HTML, CSS
 
 
