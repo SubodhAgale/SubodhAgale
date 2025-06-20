@@ -4,7 +4,7 @@
 - 🧐 I'm actively exploring roles in the IT field. If you have a project, an idea, or just want to connect, feel free to get in touch. I'm all ears!<br>
 - 🎯 I'm enthusiastic about making a difference through technology and embracing growth opportunities along the way!<br>
 - 💬 Ask me about Java, JavaScript, MySQL, React, HTML, CSS
-- 📫 How to reach me **subodhagale3112@gmail.com**
+- 📫 How to reach me ****
 
 
 
